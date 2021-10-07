@@ -1,7 +1,7 @@
 # Java Servlet MySql Application Blog Site
 
 
-
+Açıklama
 
 ## Kullanılan Diller ve Yetenekler
 
