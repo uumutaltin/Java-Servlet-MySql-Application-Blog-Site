@@ -1,0 +1,32 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background: #EAE7DC;
+
+}
+header{
+    background-color: #8E8D8A;
+    height: 66px;
+    box-sizing: border-box;
+    font-family: 'Righteous';
+
+}
+nav{
+    float: right;
+    height: 66px;
+    margin: 0px;
+    padding: 0px;
+}
+header.site-name{
+    color: black;
+    margin: 5px;
+}
+header.logo{
+    float: left;
+    height: inherit;
+    margin-left: 2em;
+}
+
+.container{
+    alignment: center;
+}
