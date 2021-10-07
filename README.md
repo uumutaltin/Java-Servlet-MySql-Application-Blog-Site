@@ -2,6 +2,11 @@
 
 
 
+
+## Kullanılan Diller ve Yetenekler
+
+
+
 ## Uygulama Görselleri
 
 <p>
