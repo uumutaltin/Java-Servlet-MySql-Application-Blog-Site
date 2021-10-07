@@ -5,7 +5,11 @@
 
 ## Kullanılan Diller ve Yetenekler
 
-
+| Dil / Yetenek | :arrow_right: | % |
+| ------------- |:-------------:|:-------------:|
+| Java | :arrow_right: | 90 |
+| -- | :arrow_right: | 80 |
+| SQLite | :arrow_right: | 70 |
 
 ## Uygulama Görselleri
 
