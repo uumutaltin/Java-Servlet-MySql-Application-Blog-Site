@@ -1,8 +1,7 @@
 # Java Servlet MySql Application Blog Site
 
 
-Açıklama
-
+Bu proje Java, Servlet ve MySQL yazılımlarını kullanarak oluşturulan bir blog web uygulamasıdır. Kullanıcılar blog ekleme, güncelleme, silme, listeleme ve detayına gitme özelliklerine sahiptirler. Blog ekleme bölümünde CK5 editör kullanılmıştır. Kullanıcılar dilerlerse şifre değiştirme aksiyonuna sahiplerdir ve anasayfadan bütün blog yazılarını okuyabilirler. Bütün kullanıcı işlemlerinde gerekli kontroller yapılmıştır, bilgileri ve güvenlikleri sağlanmıştır.
 ## Kullanılan Diller ve Yetenekler
 
 | Dil / Yetenek | :arrow_right: | % |
